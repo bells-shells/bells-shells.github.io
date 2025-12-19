@@ -3,9 +3,7 @@ email: ""
 description: >-
   A one-page personal site for Bells Shells.
 baseurl: "" # the subpath of your site, e.g. /repo-name
-url: ""     # the production url, e.g. https://bells-shells.github.io
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-remote-theme
+url: "" # the production url, e.g. https://bells-shells.github.io
+theme: jekyll-theme-slate
 markdown: kramdown
 permalink: pretty
