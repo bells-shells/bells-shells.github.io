@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: default
 title: Home
-permalink: /home
+permalink: /
 ---
 
 <!-- Load a small custom stylesheet (works inside Markdown pages) -->
